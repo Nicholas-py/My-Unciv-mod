@@ -22,8 +22,8 @@
 		"afterPeace": "Sweet. See you in 10 turns",
 		"tradeRequest": "Want to trade?",
 
-		"outerColor": [0,0,0],
-		"innerColor": [203,10,24],
+		"outerColor": [203,10,24],
+		"innerColor": [0,0,0],
 		"uniqueName": "Imperial Bonuses",
 		"uniques": ["[+60 Culture] <after discovering [Pottery]>", "[+60 Science] <after discovering [Mining]>"],
 		"cities": ["Capitalia","Secondia","Tertia","Fourthia","Attackkkkk",":)","Forward Base","Secretly Almighty","London II",
