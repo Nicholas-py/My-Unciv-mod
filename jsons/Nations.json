@@ -25,7 +25,7 @@
 		"outerColor": [256,256,256],
 		"innerColor": [203,10,24],
 		"uniqueName": "Imperial Bonuses",
-		"uniques": [[+60 Culture] <after discovering [Pottery]>, [[+60 Science] <after discovering [Mining]],
+		"uniques": ["[+60 Culture] <after discovering [Pottery]>", "[[+60 Science] <after discovering [Mining]"],
 		"cities": ["Capitalia","Secondia","Tertia","Fourthia","Attackkkkk",":)","Forward Base","Secretly Almighty","London II",
 			"Paris II","Toronto","Mars","Jupiter","The Sun","John","Johnville","Johnland","John Paradise","John Hell",
 			"The Rest Of Hell","London III","London IV","That One","Kingville","Iceland","Greenland","The Rest of Paradise","Lot Of Cities","The Rock",
