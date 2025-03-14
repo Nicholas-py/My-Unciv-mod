@@ -22,7 +22,7 @@
 		"afterPeace": "Sweet. See you in 10 turns",
 		"tradeRequest": "Want to trade?",
 
-		"outerColor": [256,256,256],
+		"outerColor": [0,0,0],
 		"innerColor": [203,10,24],
 		"uniqueName": "Imperial Bonuses",
 		"uniques": ["[+60 Culture] <after discovering [Pottery]>", "[+60 Science] <after discovering [Mining]>"],
