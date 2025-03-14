@@ -3,6 +3,26 @@
 		"name": "Territory-Claiming Worker",
 		"unitType": "Civilian",
 		"uniqueTo": "Nicholas Empire",
-		"replaces": "Worker"
+		"replaces": "Worker",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can instantly construct a [Citadel] improvement <by consuming this unit>"],
+		"cost": 71
+
+	}
+	{
+		"name": "Mighty Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Arabia",
+		"movement": 18,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "horse"
+
 	}
 ]
