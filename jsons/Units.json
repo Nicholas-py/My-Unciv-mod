@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Territory-Claiming Worker",
+		"name": "Territory Claiming Worker",
 		"unitType": "Civilian",
 		"uniqueTo": "Nicholas Empire",
 		"replaces": "Worker",
