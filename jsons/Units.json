@@ -13,7 +13,7 @@
 		"name": "Mighty Cavalry",
 		"unitType": "Mounted",
 		"replaces": "Knight",
-		"uniqueTo": "Arabia",
+		"uniqueTo": "Nicholas Empire",
 		"movement": 18,
 		"strength": 20,
 		"cost": 120,
