@@ -13,7 +13,7 @@ BuildingIcons/Holodeck
   index: -1
 BuildingIcons/temp
   rotate: false
-  xy: 744, 104
+  xy: 852, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -32,7 +32,14 @@ UnitIcons/Mighty Cavalry
   orig: 200, 194
   offset: 0, 0
   index: -1
-UnitIcons/Territory-Claiming Worker
+UnitIcons/Territory Claiming Worker
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/blah
   rotate: false
   xy: 212, 4
   size: 200, 200
@@ -42,6 +49,13 @@ UnitIcons/Territory-Claiming Worker
 UnitIcons/Territory-Claiming_Worker
   rotate: false
   xy: 636, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/aaa
+  rotate: false
+  xy: 744, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
