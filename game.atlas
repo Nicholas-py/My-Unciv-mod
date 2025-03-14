@@ -32,7 +32,7 @@ UnitIcons/Mighty Cavalry
   orig: 100, 97
   offset: 0, 0
   index: -1
-UnitIcons/Territory-Claiming Worker
+UnitIcons/Territory-Claiming_Worker
   rotate: false
   xy: 328, 4
   size: 100, 100
