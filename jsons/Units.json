@@ -25,14 +25,5 @@
 		"attackSound": "horse"
 
 	}
-	{
-		"name": "aaa",
-		"unitType": "Sword",
-		"uniqueTo": "Nicholas Empire",
-		"replaces": "Warrior",
-		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can instantly construct a [Citadel] improvement <by consuming this unit>"],
-		"cost": 71
-	}
 
 ]
