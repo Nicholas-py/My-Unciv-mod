@@ -32,4 +32,37 @@
 			"The Earth","Future Bonfire","Present Bonfire","For The Wonder","Just One More","Domination"],
 		"spynames": ["Spy","Sppy","Sspy","Spyy","Lumberjack"]
 	}
+	{
+		"name": "biohaz",
+		"leaderName": "Nicholas",
+		"adjective": ["Imperial"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": ":)",
+		"startIntroPart2": ":)))",
+		
+		"declaringWar": "The empire shall destroy you!",
+		"attacked": "Wait, why did you do that?",
+		"defeated": "Don't worry, I got this",
+		"introduction": "Oh, hi",
+		
+		"neutralHello": "How are you doing?",
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want now?",
+		
+		"afterPeace": "Sweet. See you in 10 turns",
+		"tradeRequest": "Want to trade?",
+
+		"outerColor": [203,10,24],
+		"innerColor": [0,0,0],
+		"uniqueName": "Imperial Bonuses",
+		"uniques": ["[+5 Happiness] from every [Farm]", "[+1 Culture] per every [2] [Gold]", "[+1 Gold] per every [1] [Culture]"],
+		"cities": ["Capitalia","Secondia","Tertia","Fourthia","Attackkkkk",":)","Forward Base","Secretly Almighty","London II",
+			"Paris II","Toronto","Mars","Jupiter","The Sun","John","Johnville","Johnland","John Paradise","John Hell",
+			"The Rest Of Hell","London III","London IV","That One","Kingville","Iceland","Greenland","The Rest of Paradise","Lot Of Cities","The Rock",
+			"The Earth","Future Bonfire","Present Bonfire","For The Wonder","Just One More","Domination"],
+		"spynames": ["Spy","Sppy","Sspy","Spyy","Lumberjack"]
+	}
 ]
