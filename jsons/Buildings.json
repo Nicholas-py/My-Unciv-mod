@@ -8,7 +8,7 @@
 		"percentStatBonus": {"science": 33},
     "uniques": {"[+1 Science] per [1] [Gold]"}
 		"requiredBuilding": "Library",
-		"requiredTech": "Astronomy"
+		"requiredTech": "Writing"
 	}
 
 ]
