@@ -6,7 +6,7 @@
 		"maintenance": 2000,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
-    "uniques": {"[+1 Science] per [1] [Gold]"}
+    "uniques": {"[+1 Science] per [1] [Gold]"},
 		"requiredBuilding": "Library",
 		"requiredTech": "Writing"
 	}
