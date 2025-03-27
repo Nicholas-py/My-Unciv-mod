@@ -1,7 +1,6 @@
 [
 {
-		"name": "Publically-funded Lab",
-		"replaces": "Library",
+		"name": "Privately-funded Lab",
 		"uniqueTo": "biohaz",
 		"maintenance": 2000,
 		"hurryCostModifier": 15,
