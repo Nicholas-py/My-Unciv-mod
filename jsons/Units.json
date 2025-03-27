@@ -25,5 +25,23 @@
 		"attackSound": "horse"
 
 	}
+		{
+		"name": "Laser Horse",
+		"unitType": "Mounted",
+		"uniqueTo": "biohaz",
+		"movement": 18,
+		"strength": 200,
+		"cost": 120,
+		"requiredTech": "Nanotechnology",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking", "May Paradrop up to [8] tiles from inside friendly territory", "[8] additional attacks per turn"
+
+
+],
+		"promotions": ["Logistics"]
+		"attackSound": "horse"
+
+	}
 
 ]
