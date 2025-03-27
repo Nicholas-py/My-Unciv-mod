@@ -13,14 +13,14 @@
         "barbarianSpawnDelay": 1,
         "playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
         "aiDifficultyLevel": "Settler",
-        "aiCityGrowthModifier": 0.1, // that is to say it'll take them 1.6 times as long to grow the city
+        "aiCityGrowthModifier": 0.1, // that is to say it'll take them 0.1 times as long to grow the city
         "aiUnitCostModifier": 0.1,
         "aiBuildingCostModifier": 0.1,
         "aiWonderCostModifier": 0.1,
         "aiBuildingMaintenanceModifier": 0,
         "aiUnitMaintenanceModifier": 0,
         "aiUnitSupplyModifier": 10,
-        "aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Archery",],
+        "aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Archery"],
         "aiMajorCivBonusStartingUnits": ["Settler","Settler","Settler","Settler","Settler","Settler", "Worker", "Worker", "Worker", "Worker", "Worker", "Worker", "Scout","Scout","Scout","Scout", "Era Starting Unit", "Era Starting Unit","Era Starting Unit","Era Starting Unit","Great Scientist","Great General","Great Engineer","Great Prophet","Great Merchant"],
         "aiCityStateBonusStartingUnits": [],
         "aiUnhappinessModifier": 0,
