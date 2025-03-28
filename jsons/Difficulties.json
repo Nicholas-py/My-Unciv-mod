@@ -1,4 +1,5 @@
- {
+[
+{
         "name": "Quite Hard, Actually",
         "baseHappiness": -40,
         "extraHappinessPerLuxury": -5,
@@ -20,11 +21,12 @@
         "aiBuildingMaintenanceModifier": 0,
         "aiUnitMaintenanceModifier": 0,
         "aiUnitSupplyModifier": 10,
-        "aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Archery"],
-        "aiMajorCivBonusStartingUnits": ["Settler","Settler","Settler","Settler","Settler","Settler", "Worker", "Worker", "Worker", "Worker", "Worker", "Worker", "Scout","Scout","Scout","Scout", "Era Starting Unit", "Era Starting Unit","Era Starting Unit","Era Starting Unit","Great Scientist","Great General","Great Engineer","Great Prophet","Great Merchant"],
+        "aiFreeTechs": ["Pottery", "Animal Husbandry", "Mining", "The Wheel", "Archery"],
+        "aiMajorCivBonusStartingUnits": ["Settler", "Settler","Settler","Settler","Settler","Settler", "Worker", "Worker", "Worker", "Worker", "Worker", "Worker", "Scout","Scout","Scout","Scout", "Era Starting Unit", "Era Starting Unit","Era Starting Unit","Era Starting Unit","Great Scientist","Great General","Great Engineer","Great Prophet","Great Merchant"],
         "aiCityStateBonusStartingUnits": [],
         "aiUnhappinessModifier": 0,
         "aisExchangeTechs": false,
         "turnBarbariansCanEnterPlayerTiles": 0,
         "clearBarbarianCampReward": 0
     }
+]
