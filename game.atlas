@@ -1,12 +1,12 @@
 
 game.png
-size: 1024, 256
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Holodeck
   rotate: false
-  xy: 420, 112
+  xy: 528, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -18,18 +18,25 @@ BuildingIcons/temp
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Nicholas Empire
+NationIcons/Economica Empire
   rotate: false
-  xy: 528, 112
+  xy: 420, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/biohaz
+NationIcons/Nicholas Empire
   rotate: false
-  xy: 852, 112
+  xy: 636, 112
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/q1
+  rotate: false
+  xy: 4, 220
+  size: 1001, 771
+  orig: 1001, 771
   offset: 0, 0
   index: -1
 UnitIcons/Mighty Cavalry
@@ -55,14 +62,14 @@ UnitIcons/blah
   index: -1
 UnitIcons/Territory-Claiming_Worker
   rotate: false
-  xy: 636, 112
+  xy: 744, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/aaa
   rotate: false
-  xy: 744, 112
+  xy: 852, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
