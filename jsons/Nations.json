@@ -58,7 +58,7 @@
 		"outerColor": [203,10,24],
 		"innerColor": [0,0,0],
 		"uniqueName": "Imperial Bonuses",
-		"uniques": ["[+5 Happiness] from every [Farm]", "[+1 Culture] per every [2] [Gold] <when below [1000000000] [Gold]>", "[+1 Gold] per every [1] [Culture] <when below [1000000] [Gold]>"],
+		"uniques": ["[+5 Happiness] from every [Farm]", "[+1 Culture] per every [2] [Gold] <when below [1000000000] [Gold]> <when above [-1000000000] [Gold]>", "[+1 Gold] per every [1] [Culture] <when below [1000000] [Gold]>"],
 		"cities": ["Capitalia","Secondia","Tertia","Fourthia","Attackkkkk",":)","Forward Base","Secretly Almighty","London II",
 			"Paris II","Toronto","Mars","Jupiter","The Sun","John","Johnville","Johnland","John Paradise","John Hell",
 			"The Rest Of Hell","London III","London IV","That One","Kingville","Iceland","Greenland","The Rest of Paradise","Lot Of Cities","The Rock",
