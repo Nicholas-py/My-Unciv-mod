@@ -1,7 +1,7 @@
 [
 {
 		"name": "Privately-funded Lab",
-		"uniqueTo": "biohaz",
+		"uniqueTo": "Economica Empire",
 		"maintenance": 2000,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
