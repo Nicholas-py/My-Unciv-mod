@@ -28,7 +28,7 @@
 		{
 		"name": "Laser Horse",
 		"unitType": "Mounted",
-		"uniqueTo": "biohaz",
+		"uniqueTo": "Economica Empire",
 		"movement": 18,
 		"strength": 200,
 		"cost": 1200,
